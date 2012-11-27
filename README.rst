@@ -1,4 +1,3 @@
-[![Build Status](https://secure.travis-ci.org/yin8086/YinSh.png?branch=master)](https://travis-ci.org/yin8086/YinSh)
 Features
 --------
 
